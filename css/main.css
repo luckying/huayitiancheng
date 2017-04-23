@@ -46,6 +46,7 @@
 	float:left;
 	position:relative;
 }
+#header .h-nav li.nav{border-bottom: 6px solid #fff;}
 #header .h-nav li a{
 	width:124px;
 	color:#353535;
